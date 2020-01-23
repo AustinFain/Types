@@ -1,0 +1,11 @@
+C:\Users\austi\OneDrive\Desktop\IT242\ACTypes\Types\Types\obj\Debug\netcoreapp3.1\Types.csprojAssemblyReference.cache
+C:\Users\austi\OneDrive\Desktop\IT242\ACTypes\Types\Types\obj\Debug\netcoreapp3.1\Types.AssemblyInfoInputs.cache
+C:\Users\austi\OneDrive\Desktop\IT242\ACTypes\Types\Types\obj\Debug\netcoreapp3.1\Types.AssemblyInfo.cs
+C:\Users\austi\OneDrive\Desktop\IT242\ACTypes\Types\Types\bin\Debug\netcoreapp3.1\Types.exe
+C:\Users\austi\OneDrive\Desktop\IT242\ACTypes\Types\Types\bin\Debug\netcoreapp3.1\Types.deps.json
+C:\Users\austi\OneDrive\Desktop\IT242\ACTypes\Types\Types\bin\Debug\netcoreapp3.1\Types.runtimeconfig.json
+C:\Users\austi\OneDrive\Desktop\IT242\ACTypes\Types\Types\bin\Debug\netcoreapp3.1\Types.runtimeconfig.dev.json
+C:\Users\austi\OneDrive\Desktop\IT242\ACTypes\Types\Types\bin\Debug\netcoreapp3.1\Types.dll
+C:\Users\austi\OneDrive\Desktop\IT242\ACTypes\Types\Types\bin\Debug\netcoreapp3.1\Types.pdb
+C:\Users\austi\OneDrive\Desktop\IT242\ACTypes\Types\Types\obj\Debug\netcoreapp3.1\Types.dll
+C:\Users\austi\OneDrive\Desktop\IT242\ACTypes\Types\Types\obj\Debug\netcoreapp3.1\Types.pdb
